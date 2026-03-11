@@ -1,0 +1,6 @@
+flask
+flask-cors
+mistralai
+google-genai
+numpy
+python-dotenv

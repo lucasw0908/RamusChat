@@ -1,0 +1,6 @@
+# Project specific
+data/
+sessions.json
+memories.json
+tree_events.json
+*.bak
